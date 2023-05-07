@@ -1,0 +1,11 @@
+git clone to download project using project link
+
+git checkout -b branchName
+
+git add . - add all file
+
+git status - confirmation
+
+git commit -m 'message'
+
+git push --set-upstream origin branchName
